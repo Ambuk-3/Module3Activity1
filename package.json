@@ -1,0 +1,31 @@
+{
+  "name": "rehani_12268214199_m3a1",
+  "version": "1.0.0",
+  "description": "Node.js CRUD Example with SQL Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "crud",
+    "sql",
+    "server",
+    "mssql",
+    "express",
+    "sequelize",
+    "rest",
+    "api"
+  ],
+  "author": "arehani@asu.edu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mssql": "^10.0.1"
+  }
+}
